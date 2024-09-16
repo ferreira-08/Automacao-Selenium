@@ -1,2 +1,2 @@
 # Automacao-Selenium
-Automacao usando Selenium
+Automações usando Selenium
